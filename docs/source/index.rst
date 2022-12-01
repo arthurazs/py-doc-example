@@ -1,0 +1,36 @@
+.. PyDocExample documentation master file, created by
+   sphinx-quickstart on Thu Dec  1 15:34:14 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to PyDocExample's documentation!
+========================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+
+
+Package
+=======
+
+.. automodule:: py_doc_example
+   :members:
+
+
+
+Module
+======
+
+.. automodule:: py_doc_example.uff_module
+   :members:

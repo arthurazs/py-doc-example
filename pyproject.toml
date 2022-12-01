@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "py-doc-example"
+version = "0.1.0"
+description = ""
+authors = ["Arthur Zopellaro <arthurazsoares+github@gmail.com>"]
+readme = "README.md"
+packages = [{include = "py_doc_example"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+Sphinx = "^5.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
