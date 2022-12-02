@@ -10,6 +10,7 @@ Welcome to PyDocExample's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   modules
 
 
 Indices and tables
@@ -18,19 +19,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-
-
-Package
-=======
-
-.. automodule:: py_doc_example
-   :members:
-
-
-
-Module
-======
-
-.. automodule:: py_doc_example.uff_module
-   :members:
